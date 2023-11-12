@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 900px;
+    margin: 0 auto;
+}
+body{
+    background-color: #ccc;
+}
+.apply_box{
+    max-width:600px;
+    padding: 20px;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 4px 3px 5px ;
+    border-radius: 10px;
+}
+.tittle_small{
+    font-size: 13px;
+}
